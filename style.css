@@ -1,4 +1,33 @@
 body {
-    background-color: whitesmoke;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(255, 0, 0);
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-variant: small-caps;
+}
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-shadow: 2px 2px;
+}
+img {
+    size: 0cm;
+}
+a {
+color: aqua;
+}
+a {
+    color: black;
+}
+a {
+    color: blueviolet;
+}
+a{
+    color: darkmagenta;
+}
+a{
+    color: dodgerblue;
 }
